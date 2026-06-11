@@ -1,10 +1,3 @@
-"""
-edgeR vs PyDESeq2 — Consensus Top miRNAs
-=========================================
-Finds miRNAs in the top 10 up/down of BOTH methods.
-These are your most reliable biomarkers.
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib
